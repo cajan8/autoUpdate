@@ -1,0 +1,10 @@
+version: 0.1.0
+files:
+  - url: reactadmin-0.1.0-mac.zip
+    sha512: QgW/9GU/hggaJyfv8ZwfA/BhEy/eNq2qRhBPUuMm8N6Z/KPUcP6+ag6rXjuBkUtIHJIpaZ5UN5CqFVjvvEnDFA==
+  - url: reactadmin-0.1.0.dmg
+    sha512: RL+9SBkAU9giLq24mb5E86DpzcjsKsLAiCaTZh8DaW1f8C8vCXaxryaD2y/fhTMB0XsRXIkrKds3MqC4hDTRvg==
+    size: 96143201
+path: reactadmin-0.1.0-mac.zip
+sha512: QgW/9GU/hggaJyfv8ZwfA/BhEy/eNq2qRhBPUuMm8N6Z/KPUcP6+ag6rXjuBkUtIHJIpaZ5UN5CqFVjvvEnDFA==
+releaseDate: '2018-05-04T09:46:43.001Z'
